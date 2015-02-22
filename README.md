@@ -12,7 +12,7 @@ Working on adding a few more icons before the demo page is created. Should be up
 
 If you'd like to request an icon(s) please create a new issue. 
 
-#Changelog
+##Changelog
 
 - v0.0.1 - Starter icons created.
 - v0.0.2 - New icons added: lock, unlock, favorite, menu
