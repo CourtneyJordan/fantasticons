@@ -14,6 +14,5 @@ If you'd like to request an icon(s) please create a new issue.
 
 ##Changelog
 
-- v0.0.1 - Starter icons created.
-- v0.0.2 - New icons added: lock, unlock, favorite, menu
+- v0.0.1 - Starter icons WIP
 
